@@ -1,0 +1,11 @@
+D:\VS Code- Tasks\Lab-1\lab-1 task__ONE LAST TRY\bin\Debug\lab-1 task__ONE LAST TRY.exe.config
+D:\VS Code- Tasks\Lab-1\lab-1 task__ONE LAST TRY\bin\Debug\lab-1 task__ONE LAST TRY.exe
+D:\VS Code- Tasks\Lab-1\lab-1 task__ONE LAST TRY\bin\Debug\lab-1 task__ONE LAST TRY.pdb
+D:\VS Code- Tasks\Lab-1\lab-1 task__ONE LAST TRY\obj\Debug\lab-1 task__ONE LAST TRY.csproj.AssemblyReference.cache
+D:\VS Code- Tasks\Lab-1\lab-1 task__ONE LAST TRY\obj\Debug\lab-1 task__ONE LAST TRY.csproj.SuggestedBindingRedirects.cache
+D:\VS Code- Tasks\Lab-1\lab-1 task__ONE LAST TRY\obj\Debug\lab_1_task__ONE_LAST_TRY.Form1.resources
+D:\VS Code- Tasks\Lab-1\lab-1 task__ONE LAST TRY\obj\Debug\lab_1_task__ONE_LAST_TRY.Properties.Resources.resources
+D:\VS Code- Tasks\Lab-1\lab-1 task__ONE LAST TRY\obj\Debug\lab-1 task__ONE LAST TRY.csproj.GenerateResource.cache
+D:\VS Code- Tasks\Lab-1\lab-1 task__ONE LAST TRY\obj\Debug\lab-1 task__ONE LAST TRY.csproj.CoreCompileInputs.cache
+D:\VS Code- Tasks\Lab-1\lab-1 task__ONE LAST TRY\obj\Debug\lab-1 task__ONE LAST TRY.exe
+D:\VS Code- Tasks\Lab-1\lab-1 task__ONE LAST TRY\obj\Debug\lab-1 task__ONE LAST TRY.pdb
