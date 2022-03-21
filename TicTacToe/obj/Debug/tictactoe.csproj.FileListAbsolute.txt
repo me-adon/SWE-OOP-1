@@ -1,0 +1,11 @@
+D:\VS Code- Tasks\Lab-1\tictactoe\bin\Debug\tictactoe.exe.config
+D:\VS Code- Tasks\Lab-1\tictactoe\bin\Debug\tictactoe.exe
+D:\VS Code- Tasks\Lab-1\tictactoe\bin\Debug\tictactoe.pdb
+D:\VS Code- Tasks\Lab-1\tictactoe\obj\Debug\tictactoe.csproj.AssemblyReference.cache
+D:\VS Code- Tasks\Lab-1\tictactoe\obj\Debug\tictactoe.csproj.SuggestedBindingRedirects.cache
+D:\VS Code- Tasks\Lab-1\tictactoe\obj\Debug\tictactoe.Form1.resources
+D:\VS Code- Tasks\Lab-1\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+D:\VS Code- Tasks\Lab-1\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+D:\VS Code- Tasks\Lab-1\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+D:\VS Code- Tasks\Lab-1\tictactoe\obj\Debug\tictactoe.exe
+D:\VS Code- Tasks\Lab-1\tictactoe\obj\Debug\tictactoe.pdb
