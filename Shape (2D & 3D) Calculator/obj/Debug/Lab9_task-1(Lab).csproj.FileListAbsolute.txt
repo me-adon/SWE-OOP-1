@@ -1,0 +1,11 @@
+D:\VS Code- Tasks\Lab-1\Lab9_task-1(Lab)\obj\Debug\Lab9_task-1(Lab).csproj.AssemblyReference.cache
+D:\VS Code- Tasks\Lab-1\Lab9_task-1(Lab)\obj\Debug\Lab9_task-1(Lab).csproj.SuggestedBindingRedirects.cache
+D:\VS Code- Tasks\Lab-1\Lab9_task-1(Lab)\obj\Debug\Lab9_task_1_Lab_.Form1.resources
+D:\VS Code- Tasks\Lab-1\Lab9_task-1(Lab)\obj\Debug\Lab9_task_1_Lab_.Properties.Resources.resources
+D:\VS Code- Tasks\Lab-1\Lab9_task-1(Lab)\obj\Debug\Lab9_task-1(Lab).csproj.GenerateResource.cache
+D:\VS Code- Tasks\Lab-1\Lab9_task-1(Lab)\obj\Debug\Lab9_task-1(Lab).csproj.CoreCompileInputs.cache
+D:\VS Code- Tasks\Lab-1\Lab9_task-1(Lab)\bin\Debug\Lab9_task-1(Lab).exe.config
+D:\VS Code- Tasks\Lab-1\Lab9_task-1(Lab)\bin\Debug\Lab9_task-1(Lab).exe
+D:\VS Code- Tasks\Lab-1\Lab9_task-1(Lab)\bin\Debug\Lab9_task-1(Lab).pdb
+D:\VS Code- Tasks\Lab-1\Lab9_task-1(Lab)\obj\Debug\Lab9_task-1(Lab).exe
+D:\VS Code- Tasks\Lab-1\Lab9_task-1(Lab)\obj\Debug\Lab9_task-1(Lab).pdb
