@@ -1,0 +1,11 @@
+D:\VS Code- Tasks\Lab-1\Student Course Enrollment\bin\Debug\Student Course Enrollment.exe.config
+D:\VS Code- Tasks\Lab-1\Student Course Enrollment\bin\Debug\Student Course Enrollment.exe
+D:\VS Code- Tasks\Lab-1\Student Course Enrollment\bin\Debug\Student Course Enrollment.pdb
+D:\VS Code- Tasks\Lab-1\Student Course Enrollment\obj\Debug\Student Course Enrollment.csproj.AssemblyReference.cache
+D:\VS Code- Tasks\Lab-1\Student Course Enrollment\obj\Debug\Student Course Enrollment.csproj.SuggestedBindingRedirects.cache
+D:\VS Code- Tasks\Lab-1\Student Course Enrollment\obj\Debug\Student_Course_Enrollment.Form1.resources
+D:\VS Code- Tasks\Lab-1\Student Course Enrollment\obj\Debug\Student_Course_Enrollment.Properties.Resources.resources
+D:\VS Code- Tasks\Lab-1\Student Course Enrollment\obj\Debug\Student Course Enrollment.csproj.GenerateResource.cache
+D:\VS Code- Tasks\Lab-1\Student Course Enrollment\obj\Debug\Student Course Enrollment.csproj.CoreCompileInputs.cache
+D:\VS Code- Tasks\Lab-1\Student Course Enrollment\obj\Debug\Student Course Enrollment.exe
+D:\VS Code- Tasks\Lab-1\Student Course Enrollment\obj\Debug\Student Course Enrollment.pdb
