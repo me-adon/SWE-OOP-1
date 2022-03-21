@@ -1,0 +1,11 @@
+D:\VS Code- Tasks\Lab-1\Univarsity Management System -v.001\bin\Debug\Univarsity Management System -v.001.exe.config
+D:\VS Code- Tasks\Lab-1\Univarsity Management System -v.001\bin\Debug\Univarsity Management System -v.001.exe
+D:\VS Code- Tasks\Lab-1\Univarsity Management System -v.001\bin\Debug\Univarsity Management System -v.001.pdb
+D:\VS Code- Tasks\Lab-1\Univarsity Management System -v.001\obj\Debug\Univarsity Management System -v.001.csproj.AssemblyReference.cache
+D:\VS Code- Tasks\Lab-1\Univarsity Management System -v.001\obj\Debug\Univarsity Management System -v.001.csproj.SuggestedBindingRedirects.cache
+D:\VS Code- Tasks\Lab-1\Univarsity Management System -v.001\obj\Debug\Univarsity_Management_System__v._001.Form1.resources
+D:\VS Code- Tasks\Lab-1\Univarsity Management System -v.001\obj\Debug\Univarsity_Management_System__v._001.Properties.Resources.resources
+D:\VS Code- Tasks\Lab-1\Univarsity Management System -v.001\obj\Debug\Univarsity Management System -v.001.csproj.GenerateResource.cache
+D:\VS Code- Tasks\Lab-1\Univarsity Management System -v.001\obj\Debug\Univarsity Management System -v.001.csproj.CoreCompileInputs.cache
+D:\VS Code- Tasks\Lab-1\Univarsity Management System -v.001\obj\Debug\Univarsity Management System -v.001.exe
+D:\VS Code- Tasks\Lab-1\Univarsity Management System -v.001\obj\Debug\Univarsity Management System -v.001.pdb
