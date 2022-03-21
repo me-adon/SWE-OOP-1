@@ -1,0 +1,11 @@
+E:\OOP practice\CSV_FileHandle\obj\Debug\CSV_FileHandle.csproj.AssemblyReference.cache
+E:\OOP practice\CSV_FileHandle\obj\Debug\CSV_FileHandle.csproj.SuggestedBindingRedirects.cache
+E:\OOP practice\CSV_FileHandle\obj\Debug\CSV_FileHandle.Form1.resources
+E:\OOP practice\CSV_FileHandle\obj\Debug\CSV_FileHandle.Properties.Resources.resources
+E:\OOP practice\CSV_FileHandle\obj\Debug\CSV_FileHandle.csproj.GenerateResource.cache
+E:\OOP practice\CSV_FileHandle\obj\Debug\CSV_FileHandle.csproj.CoreCompileInputs.cache
+E:\OOP practice\CSV_FileHandle\bin\Debug\CSV_FileHandle.exe.config
+E:\OOP practice\CSV_FileHandle\bin\Debug\CSV_FileHandle.exe
+E:\OOP practice\CSV_FileHandle\bin\Debug\CSV_FileHandle.pdb
+E:\OOP practice\CSV_FileHandle\obj\Debug\CSV_FileHandle.exe
+E:\OOP practice\CSV_FileHandle\obj\Debug\CSV_FileHandle.pdb
