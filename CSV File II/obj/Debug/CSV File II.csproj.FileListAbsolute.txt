@@ -1,0 +1,11 @@
+E:\OOP practice\CSV File II\bin\Debug\CSV File II.exe.config
+E:\OOP practice\CSV File II\bin\Debug\CSV File II.exe
+E:\OOP practice\CSV File II\bin\Debug\CSV File II.pdb
+E:\OOP practice\CSV File II\obj\Debug\CSV File II.csproj.AssemblyReference.cache
+E:\OOP practice\CSV File II\obj\Debug\CSV File II.csproj.SuggestedBindingRedirects.cache
+E:\OOP practice\CSV File II\obj\Debug\CSV_File_II.Form1.resources
+E:\OOP practice\CSV File II\obj\Debug\CSV_File_II.Properties.Resources.resources
+E:\OOP practice\CSV File II\obj\Debug\CSV File II.csproj.GenerateResource.cache
+E:\OOP practice\CSV File II\obj\Debug\CSV File II.csproj.CoreCompileInputs.cache
+E:\OOP practice\CSV File II\obj\Debug\CSV File II.exe
+E:\OOP practice\CSV File II\obj\Debug\CSV File II.pdb
